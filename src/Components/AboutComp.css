@@ -1,0 +1,16 @@
+.aboutComp{
+    margin: 4rem 6rem;
+}
+.aboutComp p{
+    padding: 1rem 0;
+    line-height: 1.5rem;
+}
+.aboutComp-content{
+    margin: 1rem 0;
+}
+
+@media screen and (max-width: 810px){
+    .aboutComp{
+        margin: 4rem 2rem;
+    }
+}
